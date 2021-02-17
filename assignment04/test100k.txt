@@ -1,0 +1,252 @@
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.020856
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.026053
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.042828
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 5
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.008906
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 6.491423
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.004914
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.006192
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 5
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.001089
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 7.244937
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.004603
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 5
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.006166
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 5
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.009285
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.020641
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.006691
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.007339
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 50
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.010219
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 7.169851
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003081
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003337
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 50
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.000858
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 7.289246
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003285
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003531
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 50
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.005850
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.026967
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.008869
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.008965
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 150
+Data setup: Random
+Number of trials: 10
+Average time per trial (in seconds): 0.006919
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 7.148349
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.002697
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.002462
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 150
+Data setup: Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.000955
+
+Algorithm: Simple Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 7.315402
+
+Algorithm: Median of 3 Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003070
+
+Algorithm: Random Quicksort
+Array Size: 100000
+Base case less than: 150
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003060
+
+Algorithm: MergeSort
+Array Size: 100000
+Base case less than: 150
+Data setup: Reverse Sorted
+Number of trials: 10
+Average time per trial (in seconds): 0.003547
+
